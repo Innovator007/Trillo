@@ -493,15 +493,12 @@ body {
     content: "\201C";
     position: absolute;
     font-size: 20rem;
-    top: -1.5rem;
+    top: -3.2rem;
     left: -1rem;
     line-height: 1;
     color: var(--color-grey-light-2);
     font-family: sans-serif;
     z-index: 1; }
-    @media only screen and (max-width: 56.25em) {
-      .review::before {
-        top: -3.2rem; } }
 
 .cta {
   padding: 3.5rem 0;
